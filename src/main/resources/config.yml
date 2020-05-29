@@ -1,0 +1,6 @@
+logblock-mysql-storage:
+  host: localhost
+  port: 3306
+  database: logblock
+  username: root
+  password: password
